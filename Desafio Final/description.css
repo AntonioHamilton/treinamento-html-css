@@ -1,0 +1,36 @@
+.softeam-description {
+  padding: 90px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.softeam-description div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 45vw;
+}
+
+.softeam-description div > h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.313em;
+  margin: 0;
+  letter-spacing: 5.9px;
+  font-weight: 500;
+  margin-bottom: 1.6em;
+}
+
+.softeam-description div > p {
+  color: #c7b183;
+  margin: 0;
+  text-align: justify;
+  font-weight: 300;
+  font-size: 15px;
+  margin-bottom: 1.3em;
+}
+
+.softeam-description div > img {
+  width: 300px;
+}

@@ -1,0 +1,27 @@
+.image-section {
+  height: fit-content;
+}
+
+.image-section img {
+  margin-bottom: -4px;
+  width: 100%;
+}
+
+.image-section h1 {
+  padding: 35px 0px;
+  background: #c7b183;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 10px;
+  text-align-last: center;
+}
+
+.image-section h2 {
+  background: #c7b183;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 5px;
+  text-align-last: center;
+  margin-top: -20px;
+  padding-bottom: 35px;
+}
