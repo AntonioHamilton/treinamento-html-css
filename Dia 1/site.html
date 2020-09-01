@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
+    <link rel="stylesheet" href="./css/general.css" />
+    <link rel="stylesheet" href="./css/form.css" />
     <meta charset="UTF-8" />
     <title>Site Dia 1</title>
   </head>
@@ -17,7 +19,15 @@
       <h3>Teste</h3>
     </div>
     <footer>Teste</footer>
-    <form onsubmit="alert('teste')">
+    <form id="form1" onsubmit="alert('teste')">
+      <label for="entrada-do-nome">Nome</label>
+      <input
+        id="entrada-do-nome"
+        placeholder="Digite o seu primeiro nome de solteiro"
+      />
+      <button type="submit">Enviar</button>
+    </form>
+    <form id="form2" onsubmit="alert('teste')">
       <label for="entrada-do-nome">Nome</label>
       <input
         id="entrada-do-nome"

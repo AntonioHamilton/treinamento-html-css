@@ -1,0 +1,14 @@
+#form1 {
+  background-color: rgb(99, 235, 110);
+  width: 500px;
+}
+
+#form1 input {
+  width: min(100%, 100em);
+  padding: 0;
+}
+
+#form2 {
+  width: 100%;
+  background: rgba(255, 255, 2, 0.5);
+}
