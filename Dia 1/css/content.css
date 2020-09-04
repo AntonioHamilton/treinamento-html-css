@@ -1,0 +1,16 @@
+.grid-div {
+  width: 50vw;
+  display: static;
+}
+
+.left-bar {
+  background: black;
+  height: 500px;
+  width: 100%;
+}
+
+.content-body {
+  background: green;
+  width: 100%;
+  height: 500px;
+}
